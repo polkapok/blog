@@ -1,0 +1,4 @@
+AuthName "Dossier d'administration protege."
+AuthType Basic
+AuthUserFile "C:\Users\Bacchus\www\blog\admin\.htpasswd"
+Require valid-user
